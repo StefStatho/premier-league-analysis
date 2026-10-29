@@ -48,9 +48,3 @@ This project analyzes the 2024–25 English Premier League season using Python a
 
 This project is for educational and portfolio purposes. Please check the original dataset provider's terms before redistributing the raw data.
 
-
-## Visualization
-
-### Top 10 Teams by Points
-
-![Top 10 Premier League Teams by Points](images/top_10_teams_by_points.png)
